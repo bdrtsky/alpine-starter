@@ -1,0 +1,1 @@
+import{_}from"./_plugin-vue_export-helper.c27b6911.js";import{N as t,O as n,a2 as o}from"./runtime-core.esm-bundler.60e7e71f.js";const r={};function s(e,a){return t(),n("td",null,[o(e.$slots,"default",{},void 0,!0)])}const l=_(r,[["render",s],["__scopeId","data-v-7eb68e24"]]);export{l as default};

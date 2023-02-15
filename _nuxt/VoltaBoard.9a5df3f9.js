@@ -1,0 +1,1 @@
+import{F as r,G as s,N as n,O as a,z as c}from"./runtime-core.esm-bundler.60e7e71f.js";/* empty css                       */const p=["src"],_=r({__name:"VoltaBoard",props:{token:{type:String,required:!0}},setup(e){const t=e,o=s(()=>`https://volta.net/embed/${t.token}`);return(l,m)=>(n(),a("iframe",{src:c(o),class:"w-full"},null,8,p))}});export{_ as default};
